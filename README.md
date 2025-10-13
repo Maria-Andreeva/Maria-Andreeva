@@ -1,4 +1,3 @@
-![Maria Andreeva Banner](./banner.png)
 
 # 💻 Maria Andreeva — Frontend Entwicklerin | Frontend Developer
 
@@ -6,6 +5,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Maria-Andreeva)
 [![Email](https://img.shields.io/badge/Email-maria.andreeva.marketing%40gmail.com-red?logo=gmail&logoColor=white)](mailto:maria.andreeva.marketing@gmail.com)
 [![Location](https://img.shields.io/badge/Wehr-🇩🇪-lightgrey)](#)
+
+![Maria Andreeva Banner](./banner.png)
 
 ---
 
