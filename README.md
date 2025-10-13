@@ -43,8 +43,8 @@ Nach über 10 Jahren Erfahrung im **Marketing** habe ich meine Karriere neu ausg
 #### ✅ [To-Do-App](https://github.com/Maria-Andreeva/MeetingSchedulerApp)
 > Geschrieben in **React** - Aufgabenmanagement mit CRUD-Funktionalität und LocalStorage.
 
-#### ☁️ [Wetter-App](#)
-> API-Integration mit OpenWeatherMap - Echtzeit-Wetterdaten mit Hooks in React.
+#### ☁️ [Product Store](https://github.com/Maria-Andreeva/Products_Store)
+> Products Store is a web app for managing products (add, edit, delete), built with React 19, TypeScript, Redux Toolkit, and Firebase for data storage.
 
 ---
 
