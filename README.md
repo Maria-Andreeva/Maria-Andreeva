@@ -40,8 +40,8 @@ Nach über 10 Jahren Erfahrung im **Marketing** habe ich meine Karriere neu ausg
 #### 🧩 [Portfolio Website](#)
 > Erstellt mit **React** und **Tailwind CSS** - persönliche Website mit responsivem Design, React Router und modernen Komponenten.
 
-#### ✅ [To-Do-App](#)
-> Geschrieben in **Vue.js** - Aufgabenmanagement mit CRUD-Funktionalität und LocalStorage.
+#### ✅ [!To-Do-App](https://github.com/Maria-Andreeva/MeetingSchedulerApp)
+> Geschrieben in **React** - Aufgabenmanagement mit CRUD-Funktionalität und LocalStorage.
 
 #### ☁️ [Wetter-App](#)
 > API-Integration mit OpenWeatherMap - Echtzeit-Wetterdaten mit Hooks in React.
