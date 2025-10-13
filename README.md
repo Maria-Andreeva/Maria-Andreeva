@@ -64,7 +64,7 @@ After 10+ years in **marketing**, I switched careers to tech and now create **mo
 
 ### 🧠 Tech Stack
 
-React • Vue • TypeScript • SCSS • Tailwind • Python • Pytest • Selenium • Git • Figma
+React • Vue • JavaScript • TypeScript • HTML • CSS • SCSS • Tailwind • Python • Pytest • Selenium • Git • Figma • Next
 
 ---
 
