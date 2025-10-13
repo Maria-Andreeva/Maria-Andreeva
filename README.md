@@ -38,13 +38,13 @@ Nach über 10 Jahren Erfahrung im **Marketing** habe ich meine Karriere neu ausg
 ### 💼 Projekte
 
 #### 🧩 [Portfolio Website](#)
-> Erstellt mit **React** und **Tailwind CSS** — persönliche Website mit responsivem Design, React Router und modernen Komponenten.
+> Erstellt mit **React** und **Tailwind CSS** - persönliche Website mit responsivem Design, React Router und modernen Komponenten.
 
 #### ✅ [To-Do-App](#)
-> Geschrieben in **Vue.js** — Aufgabenmanagement mit CRUD-Funktionalität und LocalStorage.
+> Geschrieben in **Vue.js** - Aufgabenmanagement mit CRUD-Funktionalität und LocalStorage.
 
 #### ☁️ [Wetter-App](#)
-> API-Integration mit OpenWeatherMap — Echtzeit-Wetterdaten mit Hooks in React.
+> API-Integration mit OpenWeatherMap - Echtzeit-Wetterdaten mit Hooks in React.
 
 ---
 
