@@ -38,13 +38,21 @@ Nach über 10 Jahren Erfahrung im **Marketing** habe ich meine Karriere neu ausg
 ### 💼 Projekte
 
 #### 🧩 [Portfolio Website](#)
-> Erstellt mit **React** und **Tailwind CSS** - persönliche Website mit responsivem Design, React Router und modernen Komponenten.
+> DE: Persönliche Website erstellt mit React & Tailwind CSS, responsive Design und moderne Komponenten.
+> EN: Personal website built with React & Tailwind CSS, responsive design and modern components.
 
 #### ✅ [To-Do-App](https://github.com/Maria-Andreeva/MeetingSchedulerApp)
-> Geschrieben in **React** - Aufgabenmanagement mit CRUD-Funktionalität und LocalStorage.
+> DE: Aufgabenverwaltung mit CRUD-Funktionalität, geschrieben in React, Nutzung von LocalStorage.
+> EN: Task management app with CRUD functionality, built in React, using LocalStorage.
 
 #### ☁️ [Product Store](https://github.com/Maria-Andreeva/Products_Store)
-> Products Store is a web app for managing products (add, edit, delete), built with React 19, TypeScript, Redux Toolkit, and Firebase for data storage.
+> DE: Web-App für Produktverwaltung (hinzufügen, bearbeiten, löschen), gebaut mit React 19, TypeScript, Redux Toolkit und Firebase.
+> EN: Web app for managing products (add, edit, delete), built with React 19, TypeScript, Redux Toolkit, and Firebase.
+
+#### 🎮 [Mobile Spiel (Java)](https://github.com/Maria-Andreeva/Java_Mobile_Game)
+
+> DE: Mobile Game in Java: Levels, Punkte sammeln, Highscores. Implementierung von Spiel-Logik, UI und Animationen. Rolle: Hauptentwicklerin, Testing & Deployment.
+> EN: Mobile game in Java: complete levels, collect points, achieve high scores. Implemented game logic, UI, and animations. Role: Lead Developer, Testing & Deployment.
 
 ---
 
@@ -76,5 +84,6 @@ React • Vue • JavaScript • TypeScript • HTML • CSS • SCSS • Tailwi
 
 ---
 
-✨ _„Code ist wie Kunst – jedes Detail zählt.“_
+✨ DE: „Code ist wie Kunst – jedes Detail zählt.“
+✨ EN: “Code is like art – every detail matters.”
 
