@@ -37,7 +37,7 @@ Nach über 10 Jahren Erfahrung im **Marketing** habe ich meine Karriere neu ausg
 
 ### 💼 Projekte
 
-#### 🧩 [Portfolio Website](https://github.com/Maria-Andreeva/Advanced_Layout/tree/master)
+#### 🧩 [Portfolio Website](https://github.com/Maria-Andreeva/React_JS/tree/master/hw8_shop/online-shop)
 > DE: Persönliche Website erstellt mit React & Tailwind CSS, responsive Design und moderne Komponenten.
 > EN: Personal website built with React & Tailwind CSS, responsive design and modern components.
 
